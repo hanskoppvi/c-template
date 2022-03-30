@@ -51,5 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Output folder
+# Output folders
 bin/*
+build/*
